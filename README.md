@@ -1,5 +1,7 @@
 # Program a BBC micro:bit and facilitate covid sequencing in the lab
 
+### Aimed at all new coders of all ages. No experience necessary!
+
 ## Introduction
 
 Covid variants are starting to pop up all over the world. At the Wellcome Genome Campus Sanger Institute, scientists are racing to identify new potentially dangerous variants in the UK population. They do this using a technology called genome sequencing.
@@ -16,7 +18,7 @@ We will take you through a series of activities where you can use your own BBC m
 
 ## Resources
 
-To see covid sequencing in action, see: [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples?] (https://www.youtube.com/watch?v=Fd40gunBTN0)
+To see covid sequencing in action, see: [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
 
 This diagram also illustrates the journey from sample to data analyses:
 [Add workflow diagram and highlight where the activities fit in].
