@@ -1,4 +1,4 @@
-# Program a BBC micro:bit to facilitate covid sequencing in the lab
+# Program a BBC micro:bit and facilitate covid sequencing in the lab
 
 ## Introduction
 
