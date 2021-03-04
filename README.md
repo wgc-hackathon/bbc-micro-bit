@@ -1,6 +1,6 @@
 # Program a BBC micro:bit and facilitate covid sequencing in the lab
 
-### Aimed at all new coders of all ages. No experience necessary!
+*Aimed at all new coders of all ages. No experience necessary!*
 
 ## Introduction
 
