@@ -18,7 +18,7 @@ We will take you through a series of activities where you can use your own BBC m
 
 ## Resources
 
-To see covid sequencing in action, see: [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
+To see covid sequencing in action, see this video: [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
 
 This diagram also illustrates the journey from sample to data analyses:
 [Add workflow diagram and highlight where the activities fit in].
