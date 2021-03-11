@@ -21,23 +21,25 @@ We will take you through a series of activities where you can use your own BBC m
 - Following registration, you should be provided with instructions on how to join the virtual video workshop.
 - A computer with internet connection (for access to the video workshop and a BBC micro:bit webpage).
 - *A micro:bit is not necessary*, however, if you do not own one, you can buy one (e.g. https://thepihut.com/products/micro-bit-v2-go-starter-kit>) or some libraries are able to loan them. If you bring one along it can be used in addition to or instead of the micro:bit simulator.
+- We have set up our own pre-workshop micro:bit activity, in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can. It can be found here:
 
 ## Resources
 
 Are you still wondering, what is a BBC micro:bit?! 
 
-The [micro:bit foundation webpage](https://microbit.org) is a brilliant resource to find out more about what it is and how it is being used in practise! The video tutorials in the [get-started](https://microbit.org/get-started) can also be helpful, if you would like to try out an activity. 
+The [micro:bit foundation webpage](https://microbit.org) is a brilliant resource to find out more about what it is and how it is being used in practise! The video tutorials in the [get-started page](https://microbit.org/get-started) can also be helpful, if you would like to try out an activity. 
 
-For an introduction to the micro:bit editor that we will be using, and how to use it, please see this [short video tutorial:](https://www.youtube.com/watch?v=MMqKMGeykM8)
+For an introduction to the micro:bit editor that we will be using, and how to use it, please see this [short video tutorial](https://www.youtube.com/watch?v=MMqKMGeykM8)
 
 In the workshop we will also be using a virtual classroom (https://classroom.microbit.org/). A link to the classroom log-in and a password will be made available at the start of the workshop.
 
+We have set up our own pre-workshop micro:bit activity, in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can. It can be found here:
+
 And finally - wondering what covid sequencing actually looks like in a lab? A short film taken at the Wellcome Genome Campus Sanger Institute can be found here:[Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
-
-## Pre-workshop activity: Display Name
-
-Include link to tutorial where participants write their name
 
 ## Outcomes - We hope you enjoy it!
 
 This event is for any new coder, including children and adults. There will be online guidance during the Zoom workshop with a chat forum so that we can answer questions. We want you to have fun and find out what it is like to code! It is as much about creativity and problem solving as it is about learning to code.
+
+Good luck!
+Your workshop tutors: Ami, Kim, Maria and Saamin :)
