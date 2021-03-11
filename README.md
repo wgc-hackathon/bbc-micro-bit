@@ -6,7 +6,7 @@
 
 Covid variants are starting to pop up all over the world. At the Wellcome Genome Campus Sanger Institute, scientists are racing to identify new potentially dangerous variants in the UK population. They do this using a technology called genome sequencing.
 
-Genome sequencing is a journey from human samples to processing and data analyses, involving many steps in the lab along the way. A bit like baking a cake, things like storage temperature and an incorrectly timed process can mean the difference between a failed experiment and success.
+Genome sequencing is a journey from human (or other) sample to processing and data analyses, and involves many steps in the lab along the way. A bit like baking a cake, things like storage temperature and an incorrectly timed process can mean the difference between a failed experiment and success.
 
 ## Objectives
 
@@ -14,26 +14,30 @@ This project aims to use a mini-computer called a BBC micro-bit to help scientis
 
 Technology can help scientists in many ways. For example, software developers have built a software called LIMS (Laboratory Information Systems) to track a sample arriving to a lab through to the moment it is processed. Scientists also rely on equipment that has lots of sensors, often controlled by a computer, to help them with their research.
 
-We will take you through a series of activities where you can use your own BBC micro-bit, or a web-based simulator, to help scientists keep their samples at the correct temperature and manage their sequencing data. You will also help solve puzzles - has a new covid-variant been detected?
-
-## Resources
-
-To see covid sequencing in action, see this video: [Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
-
-This diagram also illustrates the journey from sample to data analyses:
-[Add workflow diagram and highlight where the activities fit in].
-
-An introduction to the BBC micro-bit and some brilliant tutorials can be found in the micro-bit foundation webpage here: https://microbit.org/get-started/first-steps/introduction/. Please note that it is not necessary to own a micro:bit, although if you do, it can certainly be used in the workshop activities.
+We will take you through a series of activities where you can use your own BBC micro:bit, or a web-based BBC micro:bit simulator, to create code which could help scientists keep their samples at the correct temperature and manage their sequencing data. You will help solve a puzzle - has a new covid-variant been detected?
 
 ## What do I need to take part?
 
-[TO DO]
-Set-up info.
+- Following registration, you should be provided with instructions on how to join the virtual video workshop.
+- A computer with internet connection (for access to the video workshop and a BBC micro:bit webpage).
+- *A micro:bit is not necessary*, however, if you do not own one, you can buy one (e.g. https://thepihut.com/products/micro-bit-v2-go-starter-kit>) or some libraries are able to loan them. If you bring one along it can be used in addition to or instead of the micro:bit simulator.
 
-[To DO]
-Include link to discussion forum / chat box where participants can introduce themselves or ask questions
+## Resources
+
+Are you still wondering, what is a BBC micro:bit?! 
+
+The [micro:bit foundation webpage](https://microbit.org) is a brilliant resource to find out more about what it is and how it is being used in practise! The video tutorials in the [get-started](https://microbit.org/get-started) can also be helpful, if you would like to try out an activity. 
+
+For an introduction to the micro:bit editor that we will be using, and how to use it, please see this [short video tutorial:](https://www.youtube.com/watch?v=MMqKMGeykM8)
+
+In the workshop we will also be using a virtual classroom (https://classroom.microbit.org/). A link to the classroom log-in and a password will be made available at the start of the workshop.
+
+And finally - wondering what covid sequencing actually looks like in a lab? A short film taken at the Wellcome Genome Campus Sanger Institute can be found here:[Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
+
+## Pre-workshop activity: Display Name
+
 Include link to tutorial where participants write their name
 
 ## Outcomes - We hope you enjoy it!
 
-This event is for any new coder, including children and adults. There will be online guidance during the Zoom workshop and we have listed resources below to help if you get stuck. A discussion forum for questions has also been set up here: [add link]. We want you to have fun and find out what it is like to code. You do not need to know how to solve these tasks to be a good coder! And it is as much about creativity and problem solving as it is about learning to write computer code.
+This event is for any new coder, including children and adults. There will be online guidance during the Zoom workshop with a chat forum so that we can answer questions. We want you to have fun and find out what it is like to code! It is as much about creativity and problem solving as it is about learning to code.
