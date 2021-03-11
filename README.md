@@ -18,7 +18,7 @@ We will take you through a series of activities where you can use your own BBC m
 
 ## What do I need to take part?
 
-- Following registration, you should be provided with instructions on how to join the virtual video workshop.
+- Following registration, you should be provided with instructions on how to join the virtual video workshops.
 - A computer with internet connection (for access to the video workshop and a BBC micro:bit webpage).
 - *A micro:bit is not necessary*, however, if you do not own one, you can buy one (e.g. https://thepihut.com/products/micro-bit-v2-go-starter-kit>) or some libraries are able to loan them. If you bring one along it can be used in addition to or instead of the micro:bit simulator.
 - We have set up our own pre-workshop micro:bit activity, in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can. It can be found here:
