@@ -16,6 +16,11 @@ Technology can help scientists in many ways. For example, software developers ha
 
 We will take you through a series of activities where you can use your own BBC micro:bit, or a web-based BBC micro:bit simulator, to create code which could help scientists keep their samples at the correct temperature and manage their sequencing data. You will help solve a puzzle - has a new covid-variant been detected?
 
+## When is the workshop?
+
+The workshop will be split into 2 consecutive sessions: Workshop 1 (date time) and Workshop 2 (date time).
+We recommend attending both workshops, or only the 1st workshop, as the 2nd workshop assumes prior workshop attendance.
+
 ## What do I need to take part?
 
 - Following registration, you should be provided with instructions on how to join the virtual video workshops.
