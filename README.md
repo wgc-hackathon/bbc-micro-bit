@@ -34,7 +34,7 @@ Are you still wondering, what is a BBC micro:bit?!
 
 The [micro:bit foundation webpage](https://microbit.org) is a brilliant resource to find out more about what it is and how it is being used in practise! The video tutorials in the [get-started page](https://microbit.org/get-started) can also be helpful, if you would like to try out an activity. 
 
-For an introduction to the micro:bit editor that we will be using, and how to use it, please see this [short video tutorial](https://www.youtube.com/watch?v=MMqKMGeykM8)
+For an introduction to the micro:bit editor that we will be using, and how to use it, please see this [short video tutorial](https://www.youtube.com/watch?v=MMqKMGeykM8) There is also a micro:bit editor picture guide saved inside this Github repository, shown above.
 
 In the workshop we will also be using a virtual classroom (https://classroom.microbit.org/). A link to the classroom log-in and a password will be made available at the start of the workshop.
 
