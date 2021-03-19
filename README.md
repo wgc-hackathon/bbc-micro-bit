@@ -6,7 +6,7 @@
 
 Covid variants are starting to pop up all over the world. At the Wellcome Genome Campus Sanger Institute, scientists are racing to identify new potentially dangerous variants in the UK population. They do this using a technology called genome sequencing.
 
-Genome sequencing is a journey from human (or other) sample to processing and data analyses, and involves many steps in the lab along the way. A bit like baking a cake, things like storage temperature and an incorrectly timed process can mean the difference between a failed experiment and success.
+Genome sequencing is a journey from sample to processing and data analyses, and involves many steps in the lab along the way. A bit like baking a cake, things like storage temperature and an incorrectly timed process can mean the difference between a failed experiment and success.
 
 ## Objectives
 
