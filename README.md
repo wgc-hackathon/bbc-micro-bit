@@ -14,7 +14,7 @@ This project aims to use a mini-computer called a BBC micro-bit to help scientis
 
 Technology can help scientists in many ways. For example, software developers have built a software called LIMS (Laboratory Information Systems) to track a sample arriving to a lab through to the moment it is processed. Scientists also rely on equipment that has lots of sensors, often controlled by a computer, to help them with their research.
 
-We will take you through a series of activities where you can use your own BBC micro:bit, or a web-based BBC micro:bit simulator, to create code which could help scientists keep their samples at the correct temperature and manage their sequencing data. You will help solve a puzzle - has a new covid-variant been detected?
+We will take you through a series of activities where you can use your own BBC micro:bit, or a web-based BBC micro:bit simulator, to create code which could help scientists keep their samples at the correct temperature and manage their sequencing data. You will help solve a puzzle - has a new covid variant been detected?
 
 ## When is the workshop?
 
