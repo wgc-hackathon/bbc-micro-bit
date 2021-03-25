@@ -26,7 +26,7 @@ We recommend attending both workshops, or only the 1st workshop, as the 2nd work
 - Following registration, you should be provided with instructions on how to join the virtual video workshops.
 - A computer with internet connection (for access to the video workshop and a BBC micro:bit webpage).
 - *A micro:bit is not necessary*, however, if you do not own one, you can buy one (e.g. https://thepihut.com/products/micro-bit-v2-go-starter-kit>) or some libraries are able to loan them. If you bring one along it can be used in addition to or instead of the micro:bit simulator.
-- We have set up our own [pre-workshop micro:bit activity](https://makecode.microbit.org/#tutorial:16755-38688-48092-11880). This is in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can.
+- We have set up our own [pre-workshop micro:bit activity](https://makecode.microbit.org/#tutorial:21026-62804-15360-42016). This is in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can.
 
 ## Resources
 
@@ -38,7 +38,7 @@ For an introduction to the micro:bit editor that we will be using, and how to us
 
 In the workshop we will also be using a virtual classroom (https://classroom.microbit.org/). A link to the classroom log-in and a password will be made available at the start of the workshop.
 
-We have set up our own [pre-workshop micro:bit activity](https://makecode.microbit.org/#tutorial:16755-38688-48092-11880). This is in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can.
+We have set up our own [pre-workshop micro:bit activity](https://makecode.microbit.org/#tutorial:21026-62804-15360-42016). This is in the form of a tutorial, to help get you up and running! This is very much optional, and we will run through it briefly again during the workshop. However, we encourage you to have a go, if you can.
 
 And finally - wondering what covid sequencing actually looks like in a lab? A short film taken at the Wellcome Genome Campus Sanger Institute can be found here:[Sanger Institute - What does it take to sequence tens of thousands of COVID-19 samples](https://www.youtube.com/watch?v=Fd40gunBTN0)
 
